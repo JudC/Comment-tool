@@ -1,4 +1,4 @@
-# Comment parser
+# Comment-tool
 
 Determines all comments within a file and prints output in the following format: 
 ```
