@@ -1,13 +1,14 @@
-# Comment parser
+# Comment-tool
 
 Determines all comments within a file and prints output in the following format: 
+```
 Total # of lines: 61
 Total # of comment lines: 19
 Total # of single line comments: 9
 Total # of comment lines within block comments: 10
 Total # of block line comments: 3
 Total # of TODO’s: 3
-
+```
 ## Environment
 Currently uses `go1.12.7` 
 
